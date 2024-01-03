@@ -1,0 +1,8 @@
+출처 : 기상청 URL : https://data.kma.go.kr/data/grnd/selectAsosRltmList.do
+OBS_ASOS_TIM_20231202171610.csv
+OBS_ASOS_TIM_20231202171610.csv
+OBS_ASOS_TIM_20231202171723.csv
+OBS_ASOS_TIM_20231202171759.csv
+
+출처 : 대회에서 제공
+태양광 발전량 데이터.csv
